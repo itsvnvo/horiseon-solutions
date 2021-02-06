@@ -39,7 +39,7 @@
 }
 
 a {
-    color: #ffffff;=
+    color: #ffffff;
     text-decoration: none;
 }
 /* Paragraph font size */
@@ -80,6 +80,7 @@ body {
 
 
 /* This styles the h2 and the main section */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -135,6 +136,7 @@ body {
 }
 
 /* This styles the H3 section*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -195,6 +197,7 @@ body {
 }
 
 /* This styles the footer(h4) */
+
 .footer {
     padding: 30px;
     clear: both;
